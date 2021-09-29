@@ -1,4 +1,4 @@
-# Weather-API
+
 <h1 align='Center'> Analyzing real-time data with Spark Streaming and Kafka</h1>
 
 ![ban](https://user-images.githubusercontent.com/61430438/134847738-85341b01-cccd-4be5-a01d-dd73d5549f60.png)
